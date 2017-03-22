@@ -1,0 +1,69 @@
+body {
+  font-family: "Lucida Console", Monaco, monospace;
+  text-align: center;
+}
+
+a,
+a:visited {
+  color: #0074d9;
+}
+
+.corset {
+  margin: 15px;
+  display: inline-block;
+  text-align: left;
+}
+
+h1,
+h2,
+.subheading {
+  font-family: Georgia, serif;
+}
+
+.subheading {
+  font-size: 1.4em;
+}
+
+header {
+  overflow: auto;
+}
+
+.heading-left {
+  float: left;
+}
+
+header img {
+  width: 13em;
+}
+
+.lead {
+  font-size: 1.2em;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+.lead b {
+  color: #b10dc9;
+}
+
+b {
+  font-size: 1.1em;
+  color: #00cd5a;
+}
+
+.pizza {
+  border-radius: 2px;
+  padding: 0 5px;
+  background-color: #ffeba0;
+  color: #c44b27;
+  text-transform: uppercase;
+}
+
+.credit {
+  margin-top: 50px;
+  display: block;
+  font-size: 0.5em;
+  text-align: center;
+}
